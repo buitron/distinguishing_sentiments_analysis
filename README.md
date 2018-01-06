@@ -27,9 +27,7 @@ Sample Diagrams:
 
 <p align="center">
   <img src="images/sample_1.png">
-</p>
 
-<p align="center">
   <img src="images/sample_2.png">
 </p>
 
