@@ -46,6 +46,9 @@ coverage.xml
 *.cover
 .hypothesis/
 
+# API keys
+config.py
+
 # Translations
 *.mo
 *.pot
