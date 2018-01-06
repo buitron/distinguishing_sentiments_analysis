@@ -25,8 +25,8 @@ The tools of the trade you will need for your task as a data analyst include the
 
 Sample Diagrams
 
-![scatter plot](images/sample_1.png)
-![scatter plot](images/sample_2.png)
+![scatter plot](images/sample_1.png#center)
+![scatter plot](images/sample_2.png#right)
 
 Your final Jupyter notebook must:
 
