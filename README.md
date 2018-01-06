@@ -23,16 +23,16 @@ The second plot will be a bar plot visualizing the _overall_ sentiments of the l
 
 The tools of the trade you will need for your task as a data analyst include the following: tweepy, pandas, matplotlib, seaborn, textblob, and VADER.
 
-Sample Diagrams
+Sample Diagrams:
 
 <p align="center">
   <img src="images/sample_1.png">
 </p>
 
+<p align="center">
+  <img src="images/sample_2.png">
+</p>
 
-<div style="text-align:center" markdown="1">
-![Alt Text](images/sample_2.png)
-</div>
 
 Your final Jupyter notebook must:
 
