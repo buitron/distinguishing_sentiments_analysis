@@ -23,6 +23,10 @@ The second plot will be a bar plot visualizing the _overall_ sentiments of the l
 
 The tools of the trade you will need for your task as a data analyst include the following: tweepy, pandas, matplotlib, seaborn, textblob, and VADER.
 
+Sample Diagrams:
+![scatter plot](images/sample_1.png)
+![scatter plot](images/sample_2.png)
+
 Your final Jupyter notebook must:
 
 * Pull last 100 tweets from each outlet.
